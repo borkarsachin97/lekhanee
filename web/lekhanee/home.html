@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>लेखनी</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1><i class="fas fa-book-open"></i>लेखनी</h1>
+            <div class="controls">
+                <div class="theme-switch" id="themeToggle">
+                    <i class="fas fa-moon"></i>
+                    <span>Dark Mode</span>
+                </div>
+                <div class="search-container">
+                    <input type="text" id="searchInput" placeholder="Search books...">
+                    <button id="searchBtn"><i class="fas fa-search"></i></button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="filter-container">
+            <div class="filter-btn active" data-filter="all">All Books</div>
+            <div class="filter-btn" data-filter="English">English</div>
+            <div class="filter-btn" data-filter="Hindi">Hindi</div>
+            <div class="filter-btn" data-filter="Marathi">Marathi</div>
+        </div>
+
+        <div class="stats">
+            <div class="stat-card">
+                <i class="fas fa-book"></i>
+                <h3 id="totalBooks">0</h3>
+                <p>Total Books</p>
+            </div>
+            <div class="stat-card">
+                <i class="fas fa-file-pdf"></i>
+                <h3 id="totalPages">0</h3>
+                <p>Total Pages</p>
+            </div>
+            <div class="stat-card">
+                <i class="fas fa-layer-group"></i>
+                <h3 id="categories">0</h3>
+                <p>Categories</p>
+            </div>
+        </div>
+
+        <div class="book-grid" id="bookGrid">
+            <!-- Books will be dynamically loaded here -->
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p> लेखनी | All books stored locally</p>
+            <p>Created with <i class="fas fa-heart"></i> and Metta by vixxkigoli</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

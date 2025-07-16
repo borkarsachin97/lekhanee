@@ -1,0 +1,721 @@
+{ "books": [
+  {
+    "id": 1,
+    "title": "Volume10",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "English",
+    "pdf": "Volume10.pdf",
+    "thumbnail": "Volume10.jpg",
+    "pages": 1106,
+    "size": "18.6 MB",
+    "description": "Volume10 (auto-generated)"
+  }
+,
+  {
+    "id": 2,
+    "title": "Volume11",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "English",
+    "pdf": "Volume11.pdf",
+    "thumbnail": "Volume11.jpg",
+    "pages": 684,
+    "size": "12.9 MB",
+    "description": "Volume11 (auto-generated)"
+  }
+,
+  {
+    "id": 3,
+    "title": "Volume12",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "English",
+    "pdf": "Volume12.pdf",
+    "thumbnail": "Volume12.jpg",
+    "pages": 808,
+    "size": "14.7 MB",
+    "description": "Volume12 (auto-generated)"
+  }
+,
+  {
+    "id": 4,
+    "title": "Volume13",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "English",
+    "pdf": "Volume13.pdf",
+    "thumbnail": "Volume13.jpg",
+    "pages": 1278,
+    "size": "22.1 MB",
+    "description": "Volume13 (auto-generated)"
+  }
+,
+  {
+    "id": 5,
+    "title": "Volume14_Part_II",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "English",
+    "pdf": "Volume14_Part_II.pdf",
+    "thumbnail": "Volume14_Part_II.jpg",
+    "pages": 614,
+    "size": "7.2 MB",
+    "description": "Volume14_Part_II (auto-generated)"
+  }
+,
+  {
+    "id": 6,
+    "title": "Volume14_Part_I",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "English",
+    "pdf": "Volume14_Part_I.pdf",
+    "thumbnail": "Volume14_Part_I.jpg",
+    "pages": 806,
+    "size": "8.5 MB",
+    "description": "Volume14_Part_I (auto-generated)"
+  }
+,
+  {
+    "id": 7,
+    "title": "Volume15",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "English",
+    "pdf": "Volume15.pdf",
+    "thumbnail": "Volume15.jpg",
+    "pages": 1134,
+    "size": "15.1 MB",
+    "description": "Volume15 (auto-generated)"
+  }
+,
+  {
+    "id": 8,
+    "title": "Volume16",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "English",
+    "pdf": "Volume16.pdf",
+    "thumbnail": "Volume16.jpg",
+    "pages": 768,
+    "size": "10.1 MB",
+    "description": "Volume16 (auto-generated)"
+  }
+,
+  {
+    "id": 9,
+    "title": "Volume17_Part_III",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "English",
+    "pdf": "Volume17_Part_III.pdf",
+    "thumbnail": "Volume17_Part_III.jpg",
+    "pages": 642,
+    "size": "10.1 MB",
+    "description": "Volume17_Part_III (auto-generated)"
+  }
+,
+  {
+    "id": 10,
+    "title": "Volume17_Part_II",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "English",
+    "pdf": "Volume17_Part_II.pdf",
+    "thumbnail": "Volume17_Part_II.jpg",
+    "pages": 578,
+    "size": "12.8 MB",
+    "description": "Volume17_Part_II (auto-generated)"
+  }
+,
+  {
+    "id": 11,
+    "title": "Volume17_Part_I",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "English",
+    "pdf": "Volume17_Part_I.pdf",
+    "thumbnail": "Volume17_Part_I.jpg",
+    "pages": 514,
+    "size": "13.4 MB",
+    "description": "Volume17_Part_I (auto-generated)"
+  }
+,
+  {
+    "id": 12,
+    "title": "Volume1",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "English",
+    "pdf": "Volume1.pdf",
+    "thumbnail": "Volume1.jpg",
+    "pages": 516,
+    "size": "10.6 MB",
+    "description": "Volume1 (auto-generated)"
+  }
+,
+  {
+    "id": 13,
+    "title": "Volume2",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "English",
+    "pdf": "Volume2.pdf",
+    "thumbnail": "Volume2.jpg",
+    "pages": 830,
+    "size": "12.9 MB",
+    "description": "Volume2 (auto-generated)"
+  }
+,
+  {
+    "id": 14,
+    "title": "Volume3",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "English",
+    "pdf": "Volume3.pdf",
+    "thumbnail": "Volume3.jpg",
+    "pages": 510,
+    "size": "10.3 MB",
+    "description": "Volume3 (auto-generated)"
+  }
+,
+  {
+    "id": 15,
+    "title": "Volume4",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "English",
+    "pdf": "Volume4.pdf",
+    "thumbnail": "Volume4.jpg",
+    "pages": 378,
+    "size": "9.6 MB",
+    "description": "Volume4 (auto-generated)"
+  }
+,
+  {
+    "id": 16,
+    "title": "Volume5",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "English",
+    "pdf": "Volume5.pdf",
+    "thumbnail": "Volume5.jpg",
+    "pages": 512,
+    "size": "10.8 MB",
+    "description": "Volume5 (auto-generated)"
+  }
+,
+  {
+    "id": 17,
+    "title": "Volume6",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "English",
+    "pdf": "Volume6.pdf",
+    "thumbnail": "Volume6.jpg",
+    "pages": 720,
+    "size": "12.7 MB",
+    "description": "Volume6 (auto-generated)"
+  }
+,
+  {
+    "id": 18,
+    "title": "Volume7",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "English",
+    "pdf": "Volume7.pdf",
+    "thumbnail": "Volume7.jpg",
+    "pages": 406,
+    "size": "8.8 MB",
+    "description": "Volume7 (auto-generated)"
+  }
+,
+  {
+    "id": 19,
+    "title": "Volume8",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "English",
+    "pdf": "Volume8.pdf",
+    "thumbnail": "Volume8.jpg",
+    "pages": 512,
+    "size": "10.3 MB",
+    "description": "Volume8 (auto-generated)"
+  }
+,
+  {
+    "id": 20,
+    "title": "Volume9",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "English",
+    "pdf": "Volume9.pdf",
+    "thumbnail": "Volume9.jpg",
+    "pages": 524,
+    "size": "12.0 MB",
+    "description": "Volume9 (auto-generated)"
+  }
+,
+  {
+    "id": 21,
+    "title": "VolumeH10",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH10.pdf",
+    "thumbnail": "VolumeH10.jpg",
+    "pages": 437,
+    "size": "7.7 MB",
+    "description": "VolumeH10 (auto-generated)"
+  }
+,
+  {
+    "id": 22,
+    "title": "VolumeH11",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH11.pdf",
+    "thumbnail": "VolumeH11.jpg",
+    "pages": 363,
+    "size": "7.2 MB",
+    "description": "VolumeH11 (auto-generated)"
+  }
+,
+  {
+    "id": 23,
+    "title": "VolumeH12",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH12.pdf",
+    "thumbnail": "VolumeH12.jpg",
+    "pages": 423,
+    "size": "7.7 MB",
+    "description": "VolumeH12 (auto-generated)"
+  }
+,
+  {
+    "id": 24,
+    "title": "VolumeH13",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH13.pdf",
+    "thumbnail": "VolumeH13.jpg",
+    "pages": 211,
+    "size": "6.2 MB",
+    "description": "VolumeH13 (auto-generated)"
+  }
+,
+  {
+    "id": 25,
+    "title": "VolumeH14",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH14.pdf",
+    "thumbnail": "VolumeH14.jpg",
+    "pages": 176,
+    "size": "6.2 MB",
+    "description": "VolumeH14 (auto-generated)"
+  }
+,
+  {
+    "id": 26,
+    "title": "VolumeH15",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH15.pdf",
+    "thumbnail": "VolumeH15.jpg",
+    "pages": 498,
+    "size": "8.9 MB",
+    "description": "VolumeH15 (auto-generated)"
+  }
+,
+  {
+    "id": 27,
+    "title": "VolumeH16",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH16.pdf",
+    "thumbnail": "VolumeH16.jpg",
+    "pages": 420,
+    "size": "7.3 MB",
+    "description": "VolumeH16 (auto-generated)"
+  }
+,
+  {
+    "id": 28,
+    "title": "VolumeH17",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH17.pdf",
+    "thumbnail": "VolumeH17.jpg",
+    "pages": 105,
+    "size": "5.8 MB",
+    "description": "VolumeH17 (auto-generated)"
+  }
+,
+  {
+    "id": 29,
+    "title": "VolumeH18",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH18.pdf",
+    "thumbnail": "VolumeH18.jpg",
+    "pages": 401,
+    "size": "8.4 MB",
+    "description": "VolumeH18 (auto-generated)"
+  }
+,
+  {
+    "id": 30,
+    "title": "VolumeH19",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH19.pdf",
+    "thumbnail": "VolumeH19.jpg",
+    "pages": 168,
+    "size": "6.3 MB",
+    "description": "VolumeH19 (auto-generated)"
+  }
+,
+  {
+    "id": 31,
+    "title": "VolumeH1",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH1.pdf",
+    "thumbnail": "VolumeH1.jpg",
+    "pages": 302,
+    "size": "15.6 MB",
+    "description": "VolumeH1 (auto-generated)"
+  }
+,
+  {
+    "id": 32,
+    "title": "VolumeH20",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH20.pdf",
+    "thumbnail": "VolumeH20.jpg",
+    "pages": 393,
+    "size": "7.1 MB",
+    "description": "VolumeH20 (auto-generated)"
+  }
+,
+  {
+    "id": 33,
+    "title": "VolumeH21",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH21.pdf",
+    "thumbnail": "VolumeH21.jpg",
+    "pages": 217,
+    "size": "6.4 MB",
+    "description": "VolumeH21 (auto-generated)"
+  }
+,
+  {
+    "id": 34,
+    "title": "VolumeH22",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH22.pdf",
+    "thumbnail": "VolumeH22.jpg",
+    "pages": 571,
+    "size": "8.2 MB",
+    "description": "VolumeH22 (auto-generated)"
+  }
+,
+  {
+    "id": 35,
+    "title": "VolumeH23",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH23.pdf",
+    "thumbnail": "VolumeH23.jpg",
+    "pages": 183,
+    "size": "7.1 MB",
+    "description": "VolumeH23 (auto-generated)"
+  }
+,
+  {
+    "id": 36,
+    "title": "VolumeH24",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH24.pdf",
+    "thumbnail": "VolumeH24.jpg",
+    "pages": 408,
+    "size": "8.3 MB",
+    "description": "VolumeH24 (auto-generated)"
+  }
+,
+  {
+    "id": 37,
+    "title": "VolumeH25",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH25.pdf",
+    "thumbnail": "VolumeH25.jpg",
+    "pages": 102,
+    "size": "6.9 MB",
+    "description": "VolumeH25 (auto-generated)"
+  }
+,
+  {
+    "id": 38,
+    "title": "VolumeH26",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH26.pdf",
+    "thumbnail": "VolumeH26.jpg",
+    "pages": 358,
+    "size": "8.0 MB",
+    "description": "VolumeH26 (auto-generated)"
+  }
+,
+  {
+    "id": 39,
+    "title": "VolumeH27",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH27.pdf",
+    "thumbnail": "VolumeH27.jpg",
+    "pages": 129,
+    "size": "7.0 MB",
+    "description": "VolumeH27 (auto-generated)"
+  }
+,
+  {
+    "id": 40,
+    "title": "VolumeH28",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH28.pdf",
+    "thumbnail": "VolumeH28.jpg",
+    "pages": 234,
+    "size": "7.1 MB",
+    "description": "VolumeH28 (auto-generated)"
+  }
+,
+  {
+    "id": 41,
+    "title": "VolumeH29",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH29.pdf",
+    "thumbnail": "VolumeH29.jpg",
+    "pages": 388,
+    "size": "15.1 MB",
+    "description": "VolumeH29 (auto-generated)"
+  }
+,
+  {
+    "id": 42,
+    "title": "VolumeH2",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH2.pdf",
+    "thumbnail": "VolumeH2.jpg",
+    "pages": 300,
+    "size": "8.8 MB",
+    "description": "VolumeH2 (auto-generated)"
+  }
+,
+  {
+    "id": 43,
+    "title": "VolumeH30",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH30.pdf",
+    "thumbnail": "VolumeH30.jpg",
+    "pages": 244,
+    "size": "7.5 MB",
+    "description": "VolumeH30 (auto-generated)"
+  }
+,
+  {
+    "id": 44,
+    "title": "VolumeH31",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH31.pdf",
+    "thumbnail": "VolumeH31.jpg",
+    "pages": 816,
+    "size": "10.4 MB",
+    "description": "VolumeH31 (auto-generated)"
+  }
+,
+  {
+    "id": 45,
+    "title": "VolumeH32",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH32.pdf",
+    "thumbnail": "VolumeH32.jpg",
+    "pages": 614,
+    "size": "17.5 MB",
+    "description": "VolumeH32 (auto-generated)"
+  }
+,
+  {
+    "id": 46,
+    "title": "VolumeH33",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH33.pdf",
+    "thumbnail": "VolumeH33.jpg",
+    "pages": 639,
+    "size": "9.4 MB",
+    "description": "VolumeH33 (auto-generated)"
+  }
+,
+  {
+    "id": 47,
+    "title": "VolumeH34",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH34.pdf",
+    "thumbnail": "VolumeH34.jpg",
+    "pages": 392,
+    "size": "13.8 MB",
+    "description": "VolumeH34 (auto-generated)"
+  }
+,
+  {
+    "id": 48,
+    "title": "VolumeH35",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH35.pdf",
+    "thumbnail": "VolumeH35.jpg",
+    "pages": 502,
+    "size": "10.9 MB",
+    "description": "VolumeH35 (auto-generated)"
+  }
+,
+  {
+    "id": 49,
+    "title": "VolumeH36",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH36.pdf",
+    "thumbnail": "VolumeH36.jpg",
+    "pages": 562,
+    "size": "11.7 MB",
+    "description": "VolumeH36 (auto-generated)"
+  }
+,
+  {
+    "id": 50,
+    "title": "VolumeH37",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH37.pdf",
+    "thumbnail": "VolumeH37.jpg",
+    "pages": 565,
+    "size": "10.9 MB",
+    "description": "VolumeH37 (auto-generated)"
+  }
+,
+  {
+    "id": 51,
+    "title": "VolumeH38",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH38.pdf",
+    "thumbnail": "VolumeH38.jpg",
+    "pages": 563,
+    "size": "10.0 MB",
+    "description": "VolumeH38 (auto-generated)"
+  }
+,
+  {
+    "id": 52,
+    "title": "VolumeH39",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH39.pdf",
+    "thumbnail": "VolumeH39.jpg",
+    "pages": 554,
+    "size": "8.5 MB",
+    "description": "VolumeH39 (auto-generated)"
+  }
+,
+  {
+    "id": 53,
+    "title": "VolumeH3",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH3.pdf",
+    "thumbnail": "VolumeH3.jpg",
+    "pages": 370,
+    "size": "13.0 MB",
+    "description": "VolumeH3 (auto-generated)"
+  }
+,
+  {
+    "id": 54,
+    "title": "VolumeH40",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH40.pdf",
+    "thumbnail": "VolumeH40.jpg",
+    "pages": 533,
+    "size": "8.2 MB",
+    "description": "VolumeH40 (auto-generated)"
+  }
+,
+  {
+    "id": 55,
+    "title": "VolumeH4",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH4.pdf",
+    "thumbnail": "VolumeH4.jpg",
+    "pages": 239,
+    "size": "7.4 MB",
+    "description": "VolumeH4 (auto-generated)"
+  }
+,
+  {
+    "id": 56,
+    "title": "VolumeH5",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH5.pdf",
+    "thumbnail": "VolumeH5.jpg",
+    "pages": 361,
+    "size": "17.8 MB",
+    "description": "VolumeH5 (auto-generated)"
+  }
+,
+  {
+    "id": 57,
+    "title": "VolumeH6",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH6.pdf",
+    "thumbnail": "VolumeH6.jpg",
+    "pages": 192,
+    "size": "6.5 MB",
+    "description": "VolumeH6 (auto-generated)"
+  }
+,
+  {
+    "id": 58,
+    "title": "VolumeH7",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH7.pdf",
+    "thumbnail": "VolumeH7.jpg",
+    "pages": 408,
+    "size": "7.9 MB",
+    "description": "VolumeH7 (auto-generated)"
+  }
+,
+  {
+    "id": 59,
+    "title": "VolumeH8",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH8.pdf",
+    "thumbnail": "VolumeH8.jpg",
+    "pages": 362,
+    "size": "8.2 MB",
+    "description": "VolumeH8 (auto-generated)"
+  }
+,
+  {
+    "id": 60,
+    "title": "VolumeH9",
+    "author": "Dr. B. R. Ambedkar, Collected by: Govt. of India",
+    "category": "Hindi",
+    "pdf": "VolumeH9.pdf",
+    "thumbnail": "VolumeH9.jpg",
+    "pages": 194,
+    "size": "6.6 MB",
+    "description": "VolumeH9 (auto-generated)"
+  }
+]}
